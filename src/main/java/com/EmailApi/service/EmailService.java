@@ -44,8 +44,8 @@ public class EmailService {
 		
 			//Your gmail and Password will be used as Generated APP Password (normal gmail Password is not work)
 			
-			String username = "Easycodingwithharshit@gmail.com";
-			String password = "uvpylxpzcsrukugw";
+			String username = "xxxxxxxx@gmail.com";
+			String password = "xxxxxxx";
 			
 			Session session = Session.getInstance(properties, new Authenticator() {
 	
