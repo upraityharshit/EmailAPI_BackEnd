@@ -1,6 +1,7 @@
 #Email API
 
 **Overview**
+
 The Email API is a RESTful web service developed using Spring Boot, which provides a simple and efficient way to send emails programmatically. This API allows developers to integrate email functionality into their applications seamlessly, enabling communication with users through email notifications, alerts, and messages.
 
 **Features**
